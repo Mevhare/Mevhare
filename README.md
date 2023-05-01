@@ -4,7 +4,7 @@
 
 👀 I'm interested in Data and Business Analytics
 
-🌱 I currently use Python, SQL, Excel and Business Intelligence tools like Power BI for data querrying, manipulation and visualization
+🌱 I currently use SQL, Excel, Python and Business Intelligence tools like Power BI for data querrying, manipulation and visualization
 
 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Email or LinkedIn.
 
