@@ -1,11 +1,13 @@
-👋 Hi there, my name is Afe
+👋 Hi there! I'm Afe, a Data and Business Intelligence Analyst with a passion for data analytics and visualization. I have experience in SQL, Excel, Python, and Business Intelligence tools like Power BI.
 
-👋 I'm a Data and Business Intelligence Analyst
+🔭 I'm currently seeking Data Analyst and Business Intelligence roles, where I can apply my skills and contribute to data-driven decision-making.
 
-👀 I'm interested in Data and Business Analytics
+💼 Skills:
+- SQL
+- Excel
+- Python
+- Power BI
 
-🌱 I currently use SQL, Excel, Python and Business Intelligence tools like Power BI for data querrying, manipulation and visualization
-
-💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Email or LinkedIn.
-
-📫 How to reach me : Email: afemevhare@gmail.com, Linkedin: [Mevhare Afe](https://www.linkedin.com/in/afe-mevhare/)
+📫 How to reach me:
+- Email: afemevhare@gmail.com
+- LinkedIn: [Mevhare Afe](https://www.linkedin.com/in/afe-mevhare/)
